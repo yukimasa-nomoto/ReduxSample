@@ -2,6 +2,19 @@
 
 2020/08/05
 
+No478,479,480
+    480でうまくいかない
+        Reducerのセット忘れ
+        まだ駄目
+            取ってきたデータがうまく表示されない
+            promise関連？あきらめる
+            ↓
+            ちょっとサンプルとってくる
+No477
+    Create actions
+    npm install --save axios redux-promise
+No474,475,476
+
 Finish No473
 Start From No473
 
