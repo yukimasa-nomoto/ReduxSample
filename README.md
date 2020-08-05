@@ -1,3 +1,13 @@
+
+
+2020/08/05
+npm install --save react-router-dom@4.2.2
+    →start OK
+
+Up to My GitHub
+
+
+--------------------------------------------------------------
 # ReduxSimpleStarter
 
 Interested in learning [Redux](https://www.udemy.com/react-redux/)?
