@@ -5,6 +5,17 @@ npm install --save react-router-dom@4.2.2
     →start OK
 
 Up to My GitHub
+    ・check
+        git remote -v
+            stephengrider was target
+    ・create NewRepoditory
+        ssh
+            git@github.com:yukimasa-nomoto/ReduxSample.git
+    ・change remote
+        git remote set-url origin git@github.com:yukimasa-nomoto/ReduxSample.gi
+    ・check again
+        git remote -v
+            
 
 
 --------------------------------------------------------------
