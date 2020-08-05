@@ -1,6 +1,11 @@
 
 
 2020/08/05
+
+Finish No473
+Start From No473
+
+
 npm install --save react-router-dom@4.2.2
     →start OK
 
@@ -12,10 +17,19 @@ Up to My GitHub
         ssh
             git@github.com:yukimasa-nomoto/ReduxSample.git
     ・change remote
-        git remote set-url origin git@github.com:yukimasa-nomoto/ReduxSample.gi
+        git remote set-url origin git@github.com:yukimasa-nomoto/ReduxSample.git
     ・check again
         git remote -v
-            
+    ↓
+    Error
+        Permission denied
+    ↓
+    Change Https
+        git remote set-url origin https://github.com/yukimasa-nomoto/ReduxSample.git
+        ↓
+        git push -u origin master
+    ↓
+    Success
 
 
 --------------------------------------------------------------
